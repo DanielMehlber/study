@@ -1,0 +1,2 @@
+* Die Datensätze sind noch nicht klassifiziert
+* Eine gängige Methode ist das [[Clustering]]

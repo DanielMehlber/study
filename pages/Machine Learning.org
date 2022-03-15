@@ -1,0 +1,1 @@
+* Methoden sind [[Supervised Learning]], [[Unsupervised Learning]], [[Reinforcement Learning]]

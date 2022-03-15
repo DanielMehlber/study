@@ -1,0 +1,3 @@
+* [[Supervised Learning]] Methode für Lineare und nicht-lineare Zusammenhänge
+* Man bestimmt eine Funktion (mit zufälligen Parametern) und versucht diese zu optimieren.
+** Der Abstand zu den einzelnen Datenpunkten wird minimiert.
